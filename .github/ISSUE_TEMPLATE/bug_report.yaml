@@ -16,20 +16,20 @@ body:
   - type: textarea
     attributes:
       label: What did you expect to happen?
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown 
     attributes:
       label: Which version are you using?
       options:
         - Release 1.0
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea 
     attributes:
       label: Please upload your latest.log file
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea 
     attributes:
       label: If available, please upload your crash report
