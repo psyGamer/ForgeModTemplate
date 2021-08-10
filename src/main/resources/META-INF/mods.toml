@@ -2,7 +2,7 @@ modLoader="javafml"
 loaderVersion="[36,)"
 license="All rights reserved"
 
-#issueTrackerURL="http://my.issue.tracker/"
+#issueTrackerURL="https://github.com/author/mod/issues"
 
 [[mods]]
 
@@ -13,7 +13,7 @@ displayName="Mod"
 
 # updateJSONURL="https://curseforge.com/minecraft/mc-mods/mod"
 # displayURL="http://example.com/"
-# logoFile="mod.png"
+# logoFile="icon.png"
 
 # credits="Thanks for this example mod goes to Java"
 authors="author"
