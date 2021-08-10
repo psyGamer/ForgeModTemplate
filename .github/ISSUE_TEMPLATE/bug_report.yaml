@@ -38,7 +38,7 @@ body:
   - type: textarea 
     attributes:
       label: Please upload your debug.log file of when this happened
-      description: This log file is located in <YourMinecraftInstallation>/log/debug.log
+      description: "This log file is located in <YourMinecraftInstallation>/log/debug.log"
     validations:
       required: true
   - type: textarea 
