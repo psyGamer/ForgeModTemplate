@@ -11,8 +11,8 @@ body:
   - type: textarea
     attributes:
       label: What exactly went wrong?
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: What did you expect to happen?
